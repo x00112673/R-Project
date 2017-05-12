@@ -1,8 +1,3 @@
-#James O'Reilly
-#x00112673
-#Repeat Project
-#server.R
-
 library(gdata)
 library(DT)
 

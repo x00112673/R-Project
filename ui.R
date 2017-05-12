@@ -1,8 +1,3 @@
-#James O'Reilly
-#x00112673
-#Repeat Project
-#ui.R
-
 library(DT)
 library(shinythemes)
 
